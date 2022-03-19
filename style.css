@@ -1,5 +1,19 @@
+/* Vintage Stylist */
+@font-face {
+    font-family: 'Vintage Stylist';
+    src: url(woff/vintage-stylist.woff) format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
 body 
 {
+    font-family: 'Vintage Stylist';
     background-color: #B58C2F;
     color: #FFFFFF;
+}
+
+h1
+{
+    font-size: 72px;
 }
